@@ -1,0 +1,4 @@
+const filterResult = (selectedType) => {
+    const result =Categories.filter((currtype)=>{
+          return currtype.type===selectedType;
+    })
