@@ -55,10 +55,10 @@ const Enquiry = () => {
           Email address / Contact Number
         </label>
         <input
-          type="email"
-          name="Customer_email"
+          type="text"
+          name="Customer_details"
           className="form-control border-5"
-          id="user_email"
+          id="user_details"
         />
       </div>
 
