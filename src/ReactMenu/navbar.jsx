@@ -81,7 +81,7 @@ const Navbar = ({ onFilterChange }) => {
                 <Link
                   className="dropdown-item"
                   to="../equiglide/product"
-                  onClick={() => filterResult("Horse Rider")}
+                  onClick={() => filterResult("Saddle Pads")}
                 >
                   Saddle Pads
                 </Link>

@@ -229,5 +229,47 @@ const Categories=[
   title:"Horse Rug ",
   image:"images/HorseRug3.jpg",
   type:"Horse Wear"
-}];
+},
+{
+  id:45,
+  title:"Horse Rug ",
+  image:"images/HorseRug7.png",
+  type:"Horse Wear"
+},{
+  id:46,
+  title:"Horse Rug ",
+  image:"images/HorseRug8.png",
+  type:"Horse Wear"
+},{
+  id:47,
+  title:"Saddle Pad ",
+  image:"images/SaddlePad1.png",
+  type:"Saddle Pads"
+},{
+  id:48,
+  title:"Saddle Pad ",
+  image:"images/SaddlePad2.png",
+  type:"Saddle Pads"
+},{
+  id:49,
+  title:"Saddle Pad ",
+  image:"images/SaddlePad3.png",
+  type:"Saddle Pads"
+},{
+  id:50,
+  title:"Saddle Pad ",
+  image:"images/SaddlePad4.png",
+  type:"Saddle Pads"
+},{
+  id:51,
+  title:"Saddle Pad ",
+  image:"images/SaddlePad5.png",
+  type:"Saddle Pads"
+},{
+  id:52,
+  title:"Saddle Pad ",
+  image:"images/SaddlePad1.png",
+  type:"Saddle Pads"
+},
+];
 export default Categories;
