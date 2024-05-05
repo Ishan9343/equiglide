@@ -52,7 +52,7 @@ const Enquiry = () => {
       </div>
       <div className="mb-3">
         <label htmlFor="C_email" className="form-label">
-          Email address
+          Email address / Contact Number
         </label>
         <input
           type="email"

@@ -66,7 +66,7 @@ const Navbar = ({ onFilterChange }) => {
               <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                 <Link
                   className="dropdown-item "
-                  to="../equiglide.in/product"
+                  to="../equiglide/product"
                   onClick={() => filterResult("Horse Leashes and Ropes")}
                 >
                   Leashes & Ropes
