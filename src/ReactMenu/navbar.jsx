@@ -47,7 +47,7 @@ const Navbar = ({ onFilterChange }) => {
           <div class=" p-1 collapse navbar-collapse" id="navbarNav">
             <ul class="mx-4  navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="/equiglide.in">
+                <a class="nav-link active" aria-current="page" href="/equiglide">
                   Home
                 </a>
               </li>
@@ -73,28 +73,28 @@ const Navbar = ({ onFilterChange }) => {
                 </Link>
                 <Link
                   className="dropdown-item"
-                  to="../equiglide.in/product"
+                  to="../equiglide/product"
                   onClick={() => filterResult("Horse Wear")}
                 >
                   Horse Wear
                 </Link>
                 <Link
                   className="dropdown-item"
-                  to="../equiglide.in/product"
+                  to="../equiglide/product"
                   onClick={() => filterResult("Horse Rider")}
                 >
                   Saddle Pads
                 </Link>
                 <Link
                   className="dropdown-item"
-                  to="../equiglide.in/product"
+                  to="../equiglide/product"
                   onClick={() => filterResult("Horse Halter")}
                 >
                   Horse Halter
                 </Link>
                 <Link
                   className="dropdown-item"
-                  to="../equiglide.in/product"
+                  to="../equiglide/product"
                   onClick={() => filterResult("Horse Accessories")}
                 >
                   Horse Accessories
@@ -102,7 +102,7 @@ const Navbar = ({ onFilterChange }) => {
                 <div className="dropdown-divider"></div>
                 <Link
                   className="dropdown-item"
-                  to="../equiglide.in/product"
+                  to="../equiglide/product"
                   onClick={() => filterResult("Dog Accessories")}
                 >
                   Dog Accessories
@@ -113,7 +113,7 @@ const Navbar = ({ onFilterChange }) => {
               <a
                 className=" text-white nav-link active"
                 aria-current="page"
-                href="../equiglide.in/#about"
+                href="../equiglide/#about"
               >
                 About Us
               </a>
@@ -122,7 +122,7 @@ const Navbar = ({ onFilterChange }) => {
               <a
                 className="text-white nav-link active"
                 aria-current="page"
-                href="../equiglide.in/#enquiry"
+                href="../equiglide/#enquiry"
               >
                 Enquiry
               </a>
@@ -131,7 +131,7 @@ const Navbar = ({ onFilterChange }) => {
               <a
                 className="text-white nav-link active"
                 aria-current="page"
-                href="../equiglide.in/#enquiry"
+                href="../equiglide/#enquiry"
               >
                 
                 Contact Us
