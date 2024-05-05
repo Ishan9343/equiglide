@@ -14,7 +14,7 @@ const Navbar = ({ onFilterChange }) => {
     <>
       <nav class="navbar navbar-expand-lg bg-black border-bottom border-body" data-bs-theme="dark">
         <div class="container-fluid">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="/equiglide">
           {/* Use the imported logo */}
           <img
             src={logo}
@@ -25,7 +25,7 @@ const Navbar = ({ onFilterChange }) => {
             className="d-inline-block align-text-top"
           />
         </a>
-        <a className=" navbar-brand" href="#">
+        <a className=" navbar-brand" href="/equiglide">
           <h3
             style={{ fontFamily: "serif", marginTop: "5px",marginRight:"1rem",marginLeft:"4px" }}
             className="text-white"
