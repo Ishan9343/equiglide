@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/equiglide.in/static/css/main.f8b3e9d1.css",
-    "main.js": "/equiglide.in/static/js/main.bf660040.js",
-    "static/js/592.7f72a991.chunk.js": "/equiglide.in/static/js/592.7f72a991.chunk.js",
-    "static/media/c3.jpg": "/equiglide.in/static/media/c3.a6a97963b1d1766fdb53.jpg",
-    "static/media/horse.jpg": "/equiglide.in/static/media/horse.4b410392f4c68cbae014.jpg",
-    "static/media/c4.jpg": "/equiglide.in/static/media/c4.2d23e84204bcdd85631a.jpg",
-    "static/media/c2.jpg": "/equiglide.in/static/media/c2.b25a138b6b98f6588e4d.jpg",
-    "static/media/c5.jpg": "/equiglide.in/static/media/c5.c7e16b5622ec05a4713b.jpg",
-    "static/media/c1.jpg": "/equiglide.in/static/media/c1.780979617174859e8ce7.jpg",
-    "static/media/enqlogo.jpg": "/equiglide.in/static/media/enqlogo.b1c471231f6fd97e9db9.jpg",
-    "static/media/insta_logo.jpg": "/equiglide.in/static/media/insta_logo.fe96f893561327c6dc68.jpg",
-    "static/media/logonew.jpg": "/equiglide.in/static/media/logonew.d8c34d92af5d485cd451.jpg",
-    "static/media/logo.svg": "/equiglide.in/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/equiglide.in/index.html",
-    "main.f8b3e9d1.css.map": "/equiglide.in/static/css/main.f8b3e9d1.css.map",
-    "main.bf660040.js.map": "/equiglide.in/static/js/main.bf660040.js.map",
-    "592.7f72a991.chunk.js.map": "/equiglide.in/static/js/592.7f72a991.chunk.js.map"
+    "main.css": "/equiglide/static/css/main.f8b3e9d1.css",
+    "main.js": "/equiglide/static/js/main.59843252.js",
+    "static/js/592.7f72a991.chunk.js": "/equiglide/static/js/592.7f72a991.chunk.js",
+    "static/media/c3.jpg": "/equiglide/static/media/c3.a6a97963b1d1766fdb53.jpg",
+    "static/media/horse.jpg": "/equiglide/static/media/horse.4b410392f4c68cbae014.jpg",
+    "static/media/c4.jpg": "/equiglide/static/media/c4.2d23e84204bcdd85631a.jpg",
+    "static/media/c2.jpg": "/equiglide/static/media/c2.b25a138b6b98f6588e4d.jpg",
+    "static/media/c5.jpg": "/equiglide/static/media/c5.c7e16b5622ec05a4713b.jpg",
+    "static/media/c1.jpg": "/equiglide/static/media/c1.780979617174859e8ce7.jpg",
+    "static/media/enqlogo.jpg": "/equiglide/static/media/enqlogo.b1c471231f6fd97e9db9.jpg",
+    "static/media/insta_logo.jpg": "/equiglide/static/media/insta_logo.fe96f893561327c6dc68.jpg",
+    "static/media/logonew.jpg": "/equiglide/static/media/logonew.d8c34d92af5d485cd451.jpg",
+    "static/media/logo.svg": "/equiglide/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/equiglide/index.html",
+    "main.f8b3e9d1.css.map": "/equiglide/static/css/main.f8b3e9d1.css.map",
+    "main.59843252.js.map": "/equiglide/static/js/main.59843252.js.map",
+    "592.7f72a991.chunk.js.map": "/equiglide/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8b3e9d1.css",
-    "static/js/main.bf660040.js"
+    "static/js/main.59843252.js"
   ]
 }
