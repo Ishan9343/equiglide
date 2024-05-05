@@ -24,8 +24,8 @@ const Appj = () => {
     <>
       <Navbar onFilterChange={handleFilterChange} />
       <Routes>
-        <Route exact path="/equiglide" element={<e />} />
-        <Route exact path="/equiglide.in/product" element={<Product filterValue={filterValue} />} />        
+        <Route exact path="/equiglide" element={<Home />} />
+        <Route exact path="/equiglide/product" element={<Product filterValue={filterValue} />} />        
         <Route exact path="/about" element={<About />} />
         <Route exact path="/enquiry" element={<Enquiry />} />
         <Route exact path="/contact" element={<Contact />} />
