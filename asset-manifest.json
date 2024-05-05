@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/equiglide/static/css/main.f8b3e9d1.css",
-    "main.js": "/equiglide/static/js/main.f70ddaef.js",
+    "main.js": "/equiglide/static/js/main.512a097a.js",
     "static/js/592.7f72a991.chunk.js": "/equiglide/static/js/592.7f72a991.chunk.js",
     "static/media/c3.jpg": "/equiglide/static/media/c3.a6a97963b1d1766fdb53.jpg",
     "static/media/horse.jpg": "/equiglide/static/media/horse.4b410392f4c68cbae014.jpg",
@@ -15,11 +15,11 @@
     "static/media/logo.svg": "/equiglide/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/equiglide/index.html",
     "main.f8b3e9d1.css.map": "/equiglide/static/css/main.f8b3e9d1.css.map",
-    "main.f70ddaef.js.map": "/equiglide/static/js/main.f70ddaef.js.map",
+    "main.512a097a.js.map": "/equiglide/static/js/main.512a097a.js.map",
     "592.7f72a991.chunk.js.map": "/equiglide/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8b3e9d1.css",
-    "static/js/main.f70ddaef.js"
+    "static/js/main.512a097a.js"
   ]
 }
